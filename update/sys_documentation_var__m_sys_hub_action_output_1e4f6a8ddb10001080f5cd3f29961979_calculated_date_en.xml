@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="calculated_date" label="Calculated date" language="en" table="var__m_sys_hub_action_output_1e4f6a8ddb10001080f5cd3f29961979">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>calculated_date</element>
+            <help/>
+            <hint/>
+            <label>Calculated date</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_output_1e4f6a8ddb10001080f5cd3f29961979</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 12:33:55</sys_created_on>
+            <sys_id>d24f6a8ddb10001080f5cd3f29961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Calculated date</sys_name>
+            <sys_package display_value="NeedIt Spoke" source="x_393594_needit_sp">59955f82db00001080f5cd3f299619f2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt Spoke">59955f82db00001080f5cd3f299619f2</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_output_1e4f6a8ddb10001080f5cd3f29961979_calculated_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 12:33:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

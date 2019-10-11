@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_trigger_auto_script">
+    <sys_flow_trigger_auto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <conditional>false</conditional>
+        <name>Trigger:e301471bdb10001080f5cd3f29961939</name>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>5</run_dayofweek>
+        <run_period/>
+        <run_start>2019-10-10 13:37:53</run_start>
+        <run_time>1970-01-02 07:00:00</run_time>
+        <run_type>weekly</run_type>
+        <script><![CDATA[sn_flow_trigger.FlowTriggerAPI.fireTimerTrigger('e301471bdb10001080f5cd3f29961939');]]></script>
+        <sys_class_name>sys_flow_trigger_auto_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-10 13:37:53</sys_created_on>
+        <sys_id>ab01471bdb10001080f5cd3f29961939</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Trigger:e301471bdb10001080f5cd3f29961939</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_393594_needit_sp">59955f82db00001080f5cd3f299619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">59955f82db00001080f5cd3f299619f2</sys_scope>
+        <sys_update_name>sys_flow_trigger_auto_script_ab01471bdb10001080f5cd3f29961939</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-10 13:37:53</sys_updated_on>
+        <trigger display_value="">e301471bdb10001080f5cd3f29961939</trigger>
+        <upgrade_safe>false</upgrade_safe>
+    </sys_flow_trigger_auto_script>
+</record_update>

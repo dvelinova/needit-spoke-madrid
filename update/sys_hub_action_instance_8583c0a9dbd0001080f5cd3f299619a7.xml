@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Get Property">67f51706db00001080f5cd3f2996199c</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Action Test Flow">200eac52dbc0001080f5cd3f299619a6</flow>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-04 13:20:24</sys_created_on>
+        <sys_id>8583c0a9dbd0001080f5cd3f299619a7</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Spoke" source="x_393594_needit_sp">59955f82db00001080f5cd3f299619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">59955f82db00001080f5cd3f299619f2</sys_scope>
+        <sys_update_name>sys_hub_action_instance_8583c0a9dbd0001080f5cd3f299619a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-08 14:01:56</sys_updated_on>
+        <ui_id>491c721d-12a1-4f5f-915b-6ef5bb5d3ecf</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=8583c0a9dbd0001080f5cd3f299619a7"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>8583c0a9dbd0001080f5cd3f299619a7</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-04 13:20:24</sys_created_on>
+        <sys_id>c183c0a9dbd0001080f5cd3f299619ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-04 13:20:24</sys_updated_on>
+        <value>Test</value>
+        <variable display_value="">43308cd7db00001080f5cd3f2996197a</variable>
+    </sys_variable_value>
+</record_update>
